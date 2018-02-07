@@ -9,12 +9,12 @@ public class login_step_definitions {
 	@Given("^user is on sdettraining homepage$")
 	public void user_is_on_sdettraining_homepage() throws Throwable {
 		
-		System.out.println("Code for Executing.....user is on sdettraining homepage....will come here");
+		System.out.println("user is on sdettraining homepage....Code for Executing this functionality.....will come here");
 	}
 
 	@When("^user clicks on Signin link$")
 	public void a_user_click_on_Signin_link() throws Throwable {
-		System.out.println("CODE for Executing.....user clicks on Signin link....will come here");
+		System.out.println("Code for Executing.....user clicks on Signin link....will come here");
 	}
 
 	@When("^user enters \"([^\"]*)\" as username or email address$")
