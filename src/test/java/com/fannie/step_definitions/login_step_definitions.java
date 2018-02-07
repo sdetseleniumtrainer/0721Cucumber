@@ -24,6 +24,7 @@ public class login_step_definitions {
 
 	@When("^user enters \"([^\"]*)\" as password$")
 	public void user_enters_password(String password) throws Throwable {
+		System.out.println("Password code will come here");
 	}
 
 	@When("^user click on signin button$")
