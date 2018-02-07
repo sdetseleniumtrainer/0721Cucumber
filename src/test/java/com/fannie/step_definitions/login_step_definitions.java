@@ -9,7 +9,7 @@ public class login_step_definitions {
 	@Given("^user is on sdettraining homepage$")
 	public void user_is_on_sdettraining_homepage() throws Throwable {
 		
-		System.out.println("CODE for Executing.....user is on sdettraining homepage....will come here");
+		System.out.println("Code for Executing.....user is on sdettraining homepage....will come here");
 	}
 
 	@When("^user clicks on Signin link$")
