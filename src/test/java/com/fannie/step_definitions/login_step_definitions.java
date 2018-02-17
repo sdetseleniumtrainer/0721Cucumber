@@ -29,6 +29,7 @@ public class login_step_definitions {
 
 	@When("^user click on signin button$")
 	public void user_click_on_signin_button() throws Throwable {
+		System.out.println("Signin button code will come here");
 	}
 	
 
